@@ -1,0 +1,6 @@
+name: hp-portal
+recipe: pantheon
+config:
+  framework: drupal8
+  site: hp-portal
+  id: a8b6c7f8-a643-4482-b5a1-c7c39b0a6b38
