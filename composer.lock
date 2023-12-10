@@ -6111,6 +6111,7 @@
                 "test",
                 "web"
             ],
+            "abandoned": "friends-of-behat/mink-extension",
             "time": "2018-02-06T15:36:30+00:00"
         },
         {
